@@ -1,0 +1,68 @@
+{
+    "products":[
+        {
+            "_id": "1",
+            "image":"./images/tomato.jpeg",
+            "title": "Tomato",
+            "type": "Vegetable",
+            "price": "Rs.50"
+        },
+        {
+            "_id": "2",
+            "image":"./images/cauliflower.jpg",
+            "title": "Cauliflower",
+            "type": "Vegetable",
+            "price": "Rs.30"
+        },
+        {
+            "_id": "3",
+            "image":"./images/greenpiece.jpg",
+            "title": "Green Piece",
+            "type": "Vegetable",
+            "price": "Rs.100"
+        },
+        {
+            "_id": "4",
+            "image":"./images/brinjal.jpg",
+            "title": "Brinjal",
+            "type": "Vegetable",
+            "price": "Rs.60"
+        },
+        {
+            "_id": "5",
+            "image":"./images/ladyfinger.jpg",
+            "title": "Lady Finger",
+            "type": "Vegetable",
+            "price": "Rs.35"
+        },
+        {
+            "_id": "6",
+            "image":"./images/tomato.jpeg",
+            "title": "Mango",
+            "type": "Fruit",
+            "price": "Rs.300"
+        },
+        {
+            "_id": "7",
+            "image":"./images/brinjal.jpg",
+            "title": "Apple",
+            "type": "Fruit",
+            "price": "Rs.150"
+        },
+        {
+            "_id": "8",
+            "image":"./images/brinjal.jpg",
+            "title": "Banana",
+            "type": "Fruit",
+            "price": "Rs.40"
+        },
+        {
+            "_id": "9",
+            "image":"./images/brinjal.jpg",
+            "title": "Kiwi",
+            "type": "Fruit",
+            "price": "Rs.200"
+        }
+        
+    ]
+}
